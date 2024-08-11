@@ -1,2 +1,2 @@
 # Agentic-AI-Travel-Planner
-GenAI based project
+GenAI based Agentic project
