@@ -1,0 +1,6 @@
+pyautogen
+llama-index
+llama-index-tools-wikipedia
+llama-index-readers-wikipedia
+wikipedia
+streamlit
