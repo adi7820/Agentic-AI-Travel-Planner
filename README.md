@@ -25,3 +25,4 @@ docker run -it -p 8501:8501 agent-trip-plan:v1
 If you prefer not to run the application locally, you can access the hosted version on the Hugging Face Hub. Check it out here <a href="https://huggingface.co/spaces/Aditya782/Agentic-AI-Trip-Planner/">
   <img src="https://huggingface.co/front/thumbnails/spaces.png" alt="N|Solid" style="width: 150px;"/>
 </a>
+
