@@ -16,7 +16,7 @@ Run the following command to pull the Docker image:
 ```sh
 docker pull adi1710/agent-trip-plan:v1
 ```
-2. ***Run the Docker Container***
+2. **Run the Docker Container**
 Start the application using the following command:
 ```sh
 docker run -it -p 8501:8501 agent-trip-plan:v1
