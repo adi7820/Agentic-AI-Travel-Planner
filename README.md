@@ -1,6 +1,6 @@
 # Agentic-AI-Travel-Planner
 
-<a href="https://huggingface.co/">
+<a href="https://huggingface.co/spaces/Aditya782/Agentic-AI-Trip-Planner/">
   <img src="https://huggingface.co/front/thumbnails/spaces.png" alt="N|Solid" style="width: 150px;"/>
 </a>
 
